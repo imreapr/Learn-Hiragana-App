@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_d9bb7d9764e011ee2eb87db5a7827ef60c1754a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_372bfd78bc608b7ef8937b0db6992eb0c5e00d3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c01de3f3f518a5f64933534b25f44faf22e79910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_980769000610822c89df84db961c4d04c1135b03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_76b7788397d538f517a2d11d7527e38fda71321f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05e274809069a3af5b9e1498e344db100da29541">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_47a06ba54c39ab98565d913e14d2da1a64cf422e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_65e0215cb0558db8633f3c40c51605be8429f60a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_ae5223e86f947a27b89db045083b1effb749e9c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_cad8be5dc7ea8f4e899a9b49097b52d8d90d6d6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_7ed01996692d700eafb2bd7c605266acd6d2cea0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_65349bd34e9e6d317a2deef80f61d160f82de63a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_ff0c6c4a2b8b62dd79c93b15c5ad8092dd8688f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d3e46f8a724cb1f863a52d22f5992bfaa1bc613c">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0710d4724f7b58f551b2cba239c13f600698f132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_72cdb8e05e0b8dbaf382eb4e50e21781383f0082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8e78a230982c60453bcc6eaa5e81ddfb959ecce6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_eee0752fde410c0254bd07bb110d801fb85f6343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_1e17f5b31d274ad853d3bb27eb34de2e3c88eb0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_f7cb1ac29c577dd21bc7383622bfe28df57da885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_43c5b43aa8aac79ef09e05f1b942cee7feda7643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coding\LearnHiragana2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\coding\LearnHiragana2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_90dd174aea281132ef69ef988f512a6e770a6f26\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_custom_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.tyler.learnhiragana.CustomMenu"
+    android:background="@drawable/bckrnd">
+
+
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Begin"
+        android:clickable="true"
+        android:onClick="beginButtonPress"
+        android:id="@+id/beginButton"
+        android:layout_columnSpan="2"
+        android:layout_rowSpan="3"
+        android:layout_column="7"
+        android:layout_row="7"
+        android:layout_gravity="fill" />
+
+    <TextView
+        android:layout_column="7"
+        android:layout_row="4"
+        android:text="Tap character to add to list."
+        android:textSize="23dp"
+        android:layout_rowSpan="3"
+        android:layout_columnSpan="2"
+        android:layout_width="110dp"
+        android:layout_height="145dp"
+        android:id="@+id/infoView" />
+
+</GridLayout>
